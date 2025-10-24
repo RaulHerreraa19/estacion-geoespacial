@@ -1,3 +1,6 @@
+using DataLayer;
+using Microsoft.Extensions.DependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -14,10 +17,17 @@ builder.Services.AddAuthorization(config =>
     config.AddPolicy("AdminOnly", policy => policy.RequireClaim("Admin"));
 });
 
+builder.Services.AddDbContext<DBContext>(options =>
+{
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.ConfigureWarnings(warnings =>
+       warnings.Ignore(RelationalEventId.PendingModelChangesWarning));
+}
+);
 
 var app = builder.Build();
 
-app.MapControllerRoute(
+    app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 

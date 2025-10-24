@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "E:\\repos\\EstacionGeoespacial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\estaciongeoespacial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\estaciongeoespacial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|e:\\repos\\estaciongeoespacial\\datalayer\\utilities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\utilities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|e:\\repos\\estaciongeoespacial\\datalayer\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|e:\\repos\\estaciongeoespacial\\datalayer\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|e:\\repos\\estaciongeoespacial\\datalayer\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|e:\\repos\\estaciongeoespacial\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|e:\\repos\\estaciongeoespacial\\datalayer\\utilities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\utilities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins-colors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -41,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|e:\\repos\\estaciongeoespacial\\estaciongeoespacial\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{1C3DC519-1410-4239-9C09-97C5D3A62BE2}|EstacionGeoespacial\\EstacionGeoespacial.csproj|solutionrelative:estaciongeoespacial\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|e:\\repos\\estaciongeoespacial\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{286C6537-1AC3-4855-9BD9-471AD415C88C}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,37 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EstacionGeoespacial",
-              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\EstacionGeoespacial.csproj",
-              "RelativeDocumentMoniker": "EstacionGeoespacial\\EstacionGeoespacial.csproj",
-              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\EstacionGeoespacial.csproj",
-              "RelativeToolTip": "EstacionGeoespacial\\EstacionGeoespacial.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-24T00:04:04.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Response.cs",
-              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Utilities\\Response.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Utilities\\Response.cs",
-              "ToolTip": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Utilities\\Response.cs",
-              "RelativeToolTip": "DataLayer\\Utilities\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\Carrito.cs",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Models\\Carrito.cs",
+              "RelativeToolTip": "DataLayer\\Models\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:02:51.394Z",
+              "WhenOpened": "2025-10-24T22:46:20.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UsersModel.cs",
+              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Models\\UsersModel.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\UsersModel.cs",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Models\\UsersModel.cs",
+              "RelativeToolTip": "DataLayer\\Models\\UsersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:27:47.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\DataLayer\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "DataLayer\\MongoDBSettings.cs",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\DataLayer\\MongoDBSettings.cs",
+              "RelativeToolTip": "DataLayer\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:56:10.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "EstacionGeoespacial\\Controllers\\AuthController.cs",
@@ -92,28 +117,11 @@
               "RelativeToolTip": "EstacionGeoespacial\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:01:25.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-10-24T00:01:25.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "cryptocoins.css",
-              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
-              "RelativeDocumentMoniker": "EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
-              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
-              "RelativeToolTip": "EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-21T23:50:40.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "cryptocoins-colors.css",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins-colors.css",
               "RelativeDocumentMoniker": "EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins-colors.css",
@@ -125,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml",
@@ -133,12 +141,11 @@
               "RelativeToolTip": "EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAIBAAAAAAAAAAAAACQBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T23:36:20.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T23:36:20.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EstacionGeoespacial\\Controllers\\HomeController.cs",
@@ -150,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "site.js",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "EstacionGeoespacial\\wwwroot\\js\\site.js",
@@ -162,42 +169,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "DataLayer.csproj",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\DataLayer\\DataLayer.csproj",
               "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
               "ToolTip": "E:\\repos\\EstacionGeoespacial\\DataLayer\\DataLayer.csproj",
               "RelativeToolTip": "DataLayer\\DataLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-21T23:27:54.928Z",
+              "WhenOpened": "2025-10-21T23:27:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Program.cs",
+              "RelativeDocumentMoniker": "EstacionGeoespacial\\Program.cs",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Program.cs*",
+              "RelativeToolTip": "EstacionGeoespacial\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:10:06.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Response.cs",
+              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Utilities\\Response.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Utilities\\Response.cs",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\DataLayer\\Utilities\\Response.cs",
+              "RelativeToolTip": "DataLayer\\Utilities\\Response.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:02:51.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EstacionGeoespacial\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EstacionGeoespacial\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAYwIsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAANEAAAAAAAAAAAAYwL0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T00:32:04.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T00:32:04.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Program.cs",
-              "RelativeDocumentMoniker": "EstacionGeoespacial\\Program.cs",
-              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Program.cs",
-              "RelativeToolTip": "EstacionGeoespacial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T22:10:06.549Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\appsettings.json",
+              "RelativeDocumentMoniker": "EstacionGeoespacial\\appsettings.json",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\appsettings.json",
+              "RelativeToolTip": "EstacionGeoespacial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T19:55:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cryptocoins.css",
+              "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
+              "RelativeDocumentMoniker": "EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
+              "RelativeToolTip": "EstacionGeoespacial\\wwwroot\\template\\icons\\cryptocoins\\css\\cryptocoins.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-21T23:50:40.549Z"
             }
           ]
         }
