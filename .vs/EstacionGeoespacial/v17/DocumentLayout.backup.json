@@ -82,9 +82,9 @@
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "EstacionGeoespacial\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAAAYBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-21T23:36:20.289Z",
               "EditorCaption": ""
@@ -145,9 +145,10 @@
               "RelativeDocumentMoniker": "EstacionGeoespacial\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\repos\\EstacionGeoespacial\\EstacionGeoespacial\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EstacionGeoespacial\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAMMAAAAAAAAAAADwv9wAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T00:32:04.827Z"
+              "WhenOpened": "2025-10-22T00:32:04.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

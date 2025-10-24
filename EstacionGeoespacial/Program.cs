@@ -2,6 +2,18 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddAuthentication("CookieAuth")
+    .AddCookie("CookieAuth", config =>
+    {
+        config.Cookie.Name = "UserLoginCookie";
+        config.LoginPath = "/Home/Login";
+    });
+
+builder.Services.AddAuthorization(config =>
+{
+    config.AddPolicy("AdminOnly", policy => policy.RequireClaim("Admin"));
+});
+
 
 var app = builder.Build();
 
